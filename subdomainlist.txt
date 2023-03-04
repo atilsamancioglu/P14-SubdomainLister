@@ -1,0 +1,17 @@
+mail
+ftp
+admin
+local
+localhost
+images
+drive
+blog
+support
+news
+video
+chat
+docs
+photos
+business
+shopping
+test
